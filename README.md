@@ -1,3 +1,5 @@
 # petlo
 
-https://devpost.com/software/petlo
+Devpost: https://devpost.com/software/petlo
+
+Website: https://www.petlo.tk
